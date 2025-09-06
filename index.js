@@ -32,8 +32,7 @@ N:Merced;Lourymar;;;
 ORG:Real Estate Agent
 TEL;TYPE=CELL:939-940-3123
 EMAIL:lmercedrivera@outlook.com
-URL:https://borgesjorge2019.github.io/BorgesJorge2019.io/
-ADR:;;Caguas;Puerto Rico;;;
+URL:https://lourymarmerced.github.io/
 NOTE:Compra y venta de propiedades, Asesoría personalizada, gestión de documentos, analisis de mercado, búsqueda de financiamiento.
 END:VCARD`;
 
